@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ListHeadingText">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/body_text_1</item>
+    </style>
+    <style name="ListSubText" >
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@color/body_text_2</item>
+    </style>
+
+    <style name="ListHeadingText.Inverse">
+        <item name="android:textColor">@color/body_text_1_inverse</item>
+    </style>
+    <style name="ListSubText.Inverse" >
+        <item name="android:textColor">@color/body_text_2_inverse</item>
+    </style>
+
+</resources>

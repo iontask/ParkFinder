@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Park Finder</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="send_using">Send using</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="reset">Reset</string>
+    <string name="donate">Donate</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="empty_result">There is currently no data available</string>
+
+    <string name="nightrider">"Night Bus"</string>
+    <string name="smartbus">"SMARTBUS"</string>
+    <string name="support_email">"rockgecko.development@gmail.com"</string>
+
+    <string name="stop_search">Search</string>
+    <string name="stop_search_hint">Search for stops</string>
+    <string name="route_search_dialog_title">Browse routes &amp; stops</string>
+    <string name="find_route">Route</string>
+    <string name="find_direction">Direction</string>
+    <string name="find_stop">Stop</string>
+
+    <string name="disruptions_title">Disruptions</string>
+    <string name="disruptions_link">"> More Info"</string>
+
+    <string name="loading">Loading...</string>
+    <string name="loading_services">Services loading...</string>
+    <string name="load_all_services">Load all services for today</string>
+    <string name="load_services_tomorrow">Load services for tomorrow</string>
+    <string name="load_services_tomorrow_dialog">"Load services for tomorrow for:"</string>
+
+    <string name="toast_location_out_of_range">Park Finder is only useful in Melbourne and regional Victorian centres</string>
+
+    <string name="request_failed_format">Error fetching %1$s. Please try again.</string>
+    <string name="no_stops_nearby">There are no bus stops in view. Try zooming out.</string>
+    <string name="no_stops_nearby_min_zoom">There are no bus stops in view. Try selecting Nearest Stop from the menu.</string>
+    <string name="no_nearest_stop">Could not find the nearest bus stop to here. Try zooming out.</string>
+    <string name="no_stop_for_phone_id_format">%1$s is not a metro bus stop. Please check the id.</string>
+    <string name="no_services_for_tomorrow">There are no services tomorrow for %1$s %2$s</string>
+
+    <string name="go_to_nearest_stop">Nearest bus stop</string>
+    <string name="nearby_stops">Nearby bus stops</string>
+    <string name="clear_map">Clear map</string>
+
+
+    <string name="app_about">Park Finder v%1$s build %2$d</string>
+    <string name="app_dialog_updated_title">Park Finder updated</string>
+    <string name="app_message_updated_format">Park Finder updated to v%1$s\n© %2$d Bramley Turner-Jones\nRockGecko</string>
+    <string name="app_message_format">© %1$d Bramley Turner-Jones\nRockGecko</string>
+    <string name="settings_contact_msg_subject">"Park Finder inquiry"</string>
+    <string name="route_link_format">"http://ptv.vic.gov.au/route/view/%s"</string>
+
+
+</resources>

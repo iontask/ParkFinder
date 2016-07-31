@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#336633</color>
+    <color name="colorAccent">#8BC34A</color>
+
+    <color name="body_text_1">#000000</color>
+    <color name="body_text_2">#555555</color>
+    <color name="body_text_disabled">#44000000</color>
+    <color name="body_text_disabled_inverse">#66cccccc</color>
+
+    <color name="body_text_1_inverse">#E9EDF0</color>
+    <color name="body_text_2_inverse">#99ffffff</color>
+
+    <color name="body_text_1_positive">#ff3f990f</color>
+    <color name="body_text_1_warning">#fff6bf26</color>
+    <color name="body_text_1_negative">#fff73e0f</color>
+    <color name="body_text_1_closed">#ffcc0000</color>
+
+    <color name="divider_faint">#eeeeee</color>
+
+    <color name="card_background">#eeeeee</color>
+    <color name="card_primary_cell_bg">#fffcfcfc</color>
+    <color name="card_activated_colour">@color/theme_highlight</color>
+
+    <color name="theme_highlight">#ff8BC34A</color>
+    <color name="nightrider">#fff46624</color>
+    <color name="nightrider2">#fff26423</color>
+    <color name="nightrider3">#fff16523</color>
+    <color name="default_text">#FFBEBEBE</color>
+    <color name="default_text_inverse">#Fff</color>
+    <color name="default_sub_text_inverse">#eee</color>
+    <color name="gray_text">#FF555555</color>
+    <color name="action_bar_background">#222222</color>
+
+    <color name="button_alternate">#ff00A878</color>
+    <color name="button_login">#ffFF7043</color>
+
+
+    <color name="button_disabled">#ffC5CDD0</color>
+
+    <color name="button_pressed">@color/theme_highlight</color>
+    <color name="button_activated">#ffb341</color>
+    <color name="button_alternate_pressed">#ff00B883</color>
+    <color name="list_selector_pressed">@color/card_background</color>
+    <color name="list_selector_selected">@color/colorAccent</color>
+    <color name="list_selector_disabled">#66cccccc</color>
+
+    <color name="zone_1">#ffffcb08</color>
+    <color name="zone_2">#ff16c0e9</color>
+    <color name="zone_3">#ffed1c24</color>
+    <color name="zone_regional">#FF803e98</color>
+
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of gray -->
+    <color name="holo_gray_light">#33999999</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <!-- A really bright Holo shade of gray -->
+    <color name="holo_gray_bright">#33CCCCCC</color>
+</resources>

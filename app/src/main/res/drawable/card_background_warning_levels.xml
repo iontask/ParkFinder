@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:drawable="@drawable/colour_warning_levels"
+            android:left="0dp"
+            android:right="@dimen/card_margin_lr"
+            android:top="@dimen/card_margin_tb"
+            android:bottom="@dimen/card_margin_tb" />
+
+        <item
+            android:drawable="@drawable/card_background"/>
+</layer-list>

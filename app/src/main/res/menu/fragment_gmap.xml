@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_nearest_stop" app:showAsAction="never" android:title="@string/go_to_nearest_stop"/>
+    <!-- item android:id="@+id/menu_nearby_stops" android:showAsAction="never" android:title="@string/nearby_stops"/ -->    
+    
+    <item android:id="@+id/menu_clear_map" app:showAsAction="never" android:title="@string/clear_map"/>
+    <item android:id="@+id/menu_overlay_map" app:showAsAction="never" android:title="Open Street Map" android:checkable="true"/>
+
+    
+
+</menu>

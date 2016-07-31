@@ -1,0 +1,6 @@
+<resources>
+    <string name="server_ptv_api">http://timetableapi.ptv.vic.gov.au</string>
+    <string name="server_ptv_web">http://ptv.vic.gov.au</string>
+
+    <string name="server_overlay_url">"http://c.tile.openstreetmap.org/{z}/{x}/{y}.png"</string>
+</resources>

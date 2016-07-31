@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"  xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item android:title="Camera"
+        android:id="@+id/menu_camera"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menu_info_drawer"
+        android:orderInCategory="100"
+        android:title="Park Info"
+		app:showAsAction="never"
+        />
+   <!--
+    <item
+        android:id="@+id/menu_settings"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="Settings"/>
+    -->
+     
+
+</menu>
