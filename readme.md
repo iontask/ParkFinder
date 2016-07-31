@@ -1,6 +1,10 @@
 ﻿# Park Finder
 
+![Screenshot](screenshots/ic_launcher.png)
+
 Park Finder is an Android app to make Victorian parks and walking trails more discoverable to Victorians. It was developed for GovHack 2016.
+
+Youtube: [https://www.youtube.com/watch?v=j19ApeAwoUI]
 
 # Features
 Park Finder lists walking trails throughout Victoria. It uses the PTV transport API to fetch nearest buses to the trails. It uses the Google Machine Vision API to detect landmarks and fauna in photos users upload while on the trail. The data includes certain fauna found on the trail (eg seals, bandicoots, etc).
